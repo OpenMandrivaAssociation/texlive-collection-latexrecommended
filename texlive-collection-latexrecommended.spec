@@ -1,4 +1,4 @@
-# revision 25030
+# revision 25795
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-latexrecommended
 Epoch:		1
-Version:	20120224
+Version:	20120413
 Release:	1
 Summary:	LaTeX recommended packages
 Group:		Publishing
