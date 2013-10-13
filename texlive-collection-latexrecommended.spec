@@ -1,4 +1,4 @@
-# revision 25795
+# revision 31071
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-latexrecommended
 Epoch:		1
-Version:	20120413
+Version:	20131013
 Release:	1
 Summary:	LaTeX recommended packages
 Group:		Publishing
@@ -83,16 +83,3 @@ have widespread use.
 %build
 
 %install
-
-
-%changelog
-* Sat Apr 14 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120413-1
-+ Revision: 790881
-- Update to latest release.
-
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780496
-- Update to latest release.
-- Import texlive-collection-latexrecommended
-- Import texlive-collection-latexrecommended
-
