@@ -1,4 +1,4 @@
-# revision 32620
+# revision 33055
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-latexrecommended
 Epoch:		1
-Version:	20140215
+Version:	20140318
 Release:	1
 Summary:	LaTeX recommended packages
 Group:		Publishing
@@ -64,7 +64,6 @@ Requires:	texlive-textcase
 Requires:	texlive-thumbpdf
 Requires:	texlive-typehtml
 Requires:	texlive-underscore
-Requires:	texlive-url
 Requires:	texlive-xcolor
 Requires:	texlive-xkeyval
 
