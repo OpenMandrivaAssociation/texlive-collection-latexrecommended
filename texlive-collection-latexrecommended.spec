@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-latexrecommended
 Epoch:		1
-Version:	20180303
-Release:	3
+Version:	20190324
+Release:	1
 Summary:	LaTeX recommended packages
 Group:		Publishing
 URL:		http://tug.org/texlive
