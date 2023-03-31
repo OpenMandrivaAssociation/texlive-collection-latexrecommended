@@ -1,7 +1,7 @@
 Name:		texlive-collection-latexrecommended
 Epoch:		1
 Version:	63547
-Release:	1
+Release:	2
 Summary:	LaTeX recommended packages
 Group:		Publishing
 URL:		http://tug.org/texlive
