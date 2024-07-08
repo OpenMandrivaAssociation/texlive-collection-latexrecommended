@@ -1,6 +1,6 @@
 Name:		texlive-collection-latexrecommended
 Epoch:		1
-Version:	69888
+Version:	71527
 Release:	1
 Summary:	LaTeX recommended packages
 Group:		Publishing
